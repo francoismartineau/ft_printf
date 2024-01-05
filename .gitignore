@@ -1,0 +1,9 @@
+libft/Makefile
+
+main*
+
+*.txt
+*.o
+*.d
+*.a
+*.out
