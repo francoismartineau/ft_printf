@@ -12,8 +12,8 @@ Conversions:
 - %%
 
 Flags:
-- -
+- \-
 - 0
-- #
+- \#
 - ' ' (space)
--  +
+-  \+
