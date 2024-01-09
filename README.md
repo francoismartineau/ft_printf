@@ -17,3 +17,6 @@ Flags:
 - \#
 - ' ' (space)
 -  \+
+
+Returns:<br>
+The number of written characters.
